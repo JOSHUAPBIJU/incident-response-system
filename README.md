@@ -60,3 +60,25 @@ The research aims to analyze how **interface design impacts user efficiency, err
   3. Users will **prefer Prototype B** over Prototype A in usability.
 
 ---
+## **How to Run the Project**
+
+### **Prerequisites**
+1. Install Python **(version 3.8 or later)**.
+2. Install `pip` for managing Python packages.
+
+### **Setup Instructions**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/joyelpbiju/incident-response-system.git
+   cd incident-response-system
+   ```
+2. Run the Flask app:
+   ```bash
+   python src/app.py
+   ```
+3. Open the web application in your browser:
+   ```
+   http://127.0.0.1:5000
+   ```
+
+---
