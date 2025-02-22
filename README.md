@@ -34,3 +34,16 @@ The research aims to analyze how **interface design impacts user efficiency, err
   - Statistical analysis via a **paired t-test**.
 
 ---
+
+## **Technologies Used**
+
+### **Frontend**
+- **HTML5** – UI structuring.
+- **CSS** – Styling and responsive design.
+- **JavaScript** – Dynamic interactions.
+
+### **Backend**
+- **Python (Flask)** – Web framework for handling requests.
+- **SQLite** – Database for storing task completion time and error counts.
+
+---
