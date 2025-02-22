@@ -104,7 +104,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### **Contributions**
-We welcome contributions! If you would like to improve the system, please feel free to submit a pull request.
-
----
