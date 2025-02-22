@@ -91,3 +91,20 @@ The research aims to analyze how **interface design impacts user efficiency, err
 - **Conclusion:** Users **preferred the chatbot UI**, which provided a **faster, structured, and user-friendly** experience compared to the traditional form.
 
 ---
+
+## **Future Improvements**
+- Integrating **AI-driven assistance** for incident classification.
+- Implementing **adaptive reporting interfaces** that switch between chatbot and form modes.
+- Conducting long-term usability testing with **cybersecurity professionals**.
+
+---
+
+## **License**
+This project is licensed under the **MIT License**.
+
+---
+
+### **Contributions**
+We welcome contributions! If you would like to improve the system, please feel free to submit a pull request.
+
+---
