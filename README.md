@@ -16,3 +16,21 @@ Cybersecurity incidents pose a growing challenge for organizations, requiring ef
 The research aims to analyze how **interface design impacts user efficiency, error rates, and preference** in cybersecurity reporting. A comparative study is conducted, testing user performance and collecting usability feedback through a **System Usability Scale (SUS) questionnaire**.
 
 ---
+## **Features**
+
+- **Prototype A (Form-Based UI):**
+  - Multi-step structured form with manual data entry.
+  - Progress indicator to track completion.
+  - Traditional step-by-step interaction.
+
+- **Prototype B (Chatbot-Based UI):**
+  - Conversational chatbot for guided incident reporting.
+  - Users can select predefined responses or enter short replies.
+  - Single scrolling interface for smooth workflow.
+
+- **Research & Data Analysis:**
+  - Performance metrics: **Task completion time & error rate** comparison.
+  - User experience evaluation using **SUS questionnaire**.
+  - Statistical analysis via a **paired t-test**.
+
+---
