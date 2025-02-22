@@ -82,3 +82,12 @@ The research aims to analyze how **interface design impacts user efficiency, err
    ```
 
 ---
+## **Results Summary**
+- **Prototype B (Chatbot UI)** outperformed **Prototype A (Form UI)** in **task efficiency and error reduction**.
+- **SUS Scores:**
+  - **Prototype A:** 42.16 (**Awful**).
+  - **Prototype B:** 89.00 (**Excellent**).
+- **Statistical Significance:** The differences in task completion time and errors were highly significant (**p < 0.00001**).
+- **Conclusion:** Users **preferred the chatbot UI**, which provided a **faster, structured, and user-friendly** experience compared to the traditional form.
+
+---
