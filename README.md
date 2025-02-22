@@ -47,3 +47,16 @@ The research aims to analyze how **interface design impacts user efficiency, err
 - **SQLite** – Database for storing task completion time and error counts.
 
 ---
+## **Study Methodology**
+
+- **Participants:** 30 users (aged 20-30, with 43.3% female participation).
+- **Metrics Recorded:**
+  - **Task Completion Time:** Time taken to report an incident.
+  - **Errors:** Number of mistakes while entering information.
+  - **User Preference:** Rated via **SUS questionnaire**.
+- **Hypotheses Tested:**
+  1. Users will make **fewer errors** in Prototype B than in Prototype A.
+  2. Users will complete tasks **faster** in Prototype B than in Prototype A.
+  3. Users will **prefer Prototype B** over Prototype A in usability.
+
+---
