@@ -1,79 +1,18 @@
-# **Incident Response System**
+# **Impact of UI Design on Cybersecurity Incident Reporting: A Form vs. Chatbot Comparison**
 
-This project is being developed by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) and [Joyel Porunnedath Biju](https://github.com/joyelpbiju).
+This project is developed by [Joyel Porunnedath Biju](https://github.com/joyelpbiju) and [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) as part of an **Interactive Systems** project at **Schmalkalden University of Applied Sciences**.
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen) ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
+---
+
 ## **Project Overview**
 
-The **Incident Response System** is part of the **Interactive Systems** subject, focusing on creating intuitive and user-friendly interfaces. This project includes two prototypes aimed at improving user interaction, making it more engaging and accessible:
-- **Prototype A:** A multi-step form-based approach for user input.
-- **Prototype B:** An interactive chatbot widget that offers a conversational interface for the same tasks.
+Cybersecurity incidents pose a growing challenge for organizations, requiring effective reporting mechanisms to ensure timely responses. This project evaluates two different **User Interface (UI) approaches** for incident reporting:
 
-The goal is to compare these prototypes and demonstrate how interactivity can enhance the user experience.
+- **Prototype A:** A traditional **multi-step form-based** UI.
+- **Prototype B:** An **interactive chatbot-based** UI that provides a conversational experience.
 
-**This project is a work in progress, with additional features and refinements planned.**
-
----
-
-## **Features**
-
-- **Prototype A:**
-  - Multi-step form for structured input collection.
-  - Progress bar to track completion.
-  - Traditional form-based structure.
-
-- **Prototype B:**
-  - Conversational chatbot for an engaging user experience.
-  - Dynamic responses based on user inputs.
-  - Interactive and intuitive design.
-
-- **Other Features:**
-  - Real-time input validation.
-  - Responsive design for all devices.
+The research aims to analyze how **interface design impacts user efficiency, error rates, and preference** in cybersecurity reporting. A comparative study is conducted, testing user performance and collecting usability feedback through a **System Usability Scale (SUS) questionnaire**.
 
 ---
-
-## **Technologies Used**
-
-### **Frontend**
-- **HTML5**: For structuring the prototypes.
-- **CSS**: For styling and responsive design.
-- **JavaScript**: For dynamic interactivity.
-
-### **Backend**
-- **Python (Flask)**: For serving templates and managing user interactions.
-- **DBSqlite**: database to store user details.
-
----
-
-
-## **How to Run the Project**
-
-### **Prerequisites**
-1. Install Python (version 3.8 or later).
-2. Install `pip` for managing Python packages.
-
-### **Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/joyelpbiju/incident-response-system.git
-   cd incident-response-system
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Flask app:
-   ```bash
-   python src/app.py
-   ```
-4. Open the app in your browser:
-   ```
-   http://127.0.0.1:5000
-   ```
-
-
-
-
-
